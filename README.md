@@ -1,4 +1,4 @@
-# Desafio de projeto - Construindo seu Primeiro Projeto Lógico de Banco de Dados.
+# Construindo seu Primeiro Projeto Lógico de Banco de Dados.
 
 
 
